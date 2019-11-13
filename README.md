@@ -11,7 +11,7 @@
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-04`;
+2. Entre na pasta rodando `cd gostack-modulo4`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev` para iniciar o servidor de desenvolvimento;
 5. Abra `http://localhost:8000` para ver o projeto no navegador.
